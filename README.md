@@ -1,6 +1,6 @@
 # APIs-Final-project
 
-3 APIs endpoints:
+3 HTTP methods:
 - Get/{id} 
 - Post 
 - Delete 
