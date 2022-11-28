@@ -17,6 +17,8 @@ Get/ {id} will throw "not found" when get the id doesn't exist.
 
 Delete will respond "Deleted" when hit delete id or throw "not found" if the id doesn't exist.
 
+After deleted a specific Id, hit get that Id will throw "Not found".
+
 Database.
 
 Tables:
